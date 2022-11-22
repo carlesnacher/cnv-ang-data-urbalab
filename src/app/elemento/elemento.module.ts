@@ -11,5 +11,8 @@ import { DadoComponent } from './dado/dado.component';
   imports: [
     CommonModule
   ],
+  exports: [
+    DadoComponent
+  ],
 })
 export class ElementoModule { }
