@@ -10,6 +10,6 @@ import { DadoComponent } from './dado/dado.component';
   ],
   imports: [
     CommonModule
-  ]
+  ],
 })
 export class ElementoModule { }
